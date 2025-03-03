@@ -1,3 +1,5 @@
+# A aplicação:
+Sistema de locação de livros, com direito a autorização de autenticação do usuário.
 # Sobre a aplicação
 Feito na semana NLW Connect
 ### Tecnologias:
